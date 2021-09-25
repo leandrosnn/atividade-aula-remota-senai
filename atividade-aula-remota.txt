@@ -1,1 +1,7 @@
-criado arquivo
+Atividade Aula Remoto
+
+Criar Repositório
+Subir Arquivo
+Criar 2 branch e não 1
+Criar edicoes diferentes na branch
+Fazer Merge
